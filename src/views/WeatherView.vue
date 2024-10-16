@@ -1,7 +1,7 @@
 <template>
       <div class="container">
         <div class="header">
-          <h1>Weather App</h1>
+          <h1>Christian Wu's Weather App</h1>
           <div class="search-bar">
             <input
               type="text"
