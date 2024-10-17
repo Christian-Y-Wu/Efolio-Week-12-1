@@ -14,7 +14,5 @@ export default defineConfig({
       '@': fileURLToPath(new URL('./src', import.meta.url))
     }
   },
-  base: process.env.VITE_MODE === 'production'
-    ? '/Efolio-Week-12-1/'  
-    : '/'
+  base:'/Efolio-Week-12-1/'
 })
