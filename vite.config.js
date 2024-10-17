@@ -15,5 +15,5 @@ export default defineConfig({
     }
   },
 
-  base: '/Efolio-Week-11-1/home', 
+  base: '/Efolio-Week-11-1/', 
 })
