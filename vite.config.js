@@ -15,6 +15,6 @@ export default defineConfig({
     }
   },
   base: process.env.VITE_MODE === 'production'
-    ? '/Efolio-Week-11-1/'  
+    ? '/Efolio-Week-12-1/'  
     : '/'
 })
