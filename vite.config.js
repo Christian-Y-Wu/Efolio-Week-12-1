@@ -14,6 +14,6 @@ export default defineConfig({
       '@': fileURLToPath(new URL('./src', import.meta.url))
     }
   },
-
-  base: '/Efolio-Week-11-1/', 
+  // Set the base URL for GitHub Pages directly
+  base: '/Efolio-Week-11-1/', // Replace with your repository name if different
 })
